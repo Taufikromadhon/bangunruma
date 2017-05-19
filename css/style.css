@@ -1,0 +1,178 @@
+.topi {
+    position: relative;
+    border-top: 2px solid #ff3d00;
+}
+#kepala{
+    background-color: #fff;
+    width: 100%;
+    height: 80px;
+    margin-top: 25px;
+}
+.menuHeaderAtas{
+    background: #eceff1;
+    color: #555;
+    width: 100%;
+    height: 45px;
+}
+.kamar {
+	background-image: url(img/kmar.png);
+	width: 1395px;
+	height: 360px;
+}
+.menuHeaderBawah{
+    background: #eceff1;
+    color: #555;
+    width: 100%;
+    height: 120px;
+}
+#tentang{
+    background-color: #333;
+    width: 100%;
+    height: 370px;
+    margin-top: 620px;
+    left: 0;
+    right: 0;
+    top: 0;
+    position: absolute;
+}
+#pilihan{
+    background-color: #eceff1;
+    width: 100%;
+    height: 250px;
+    margin-top: 955px;
+    left: 0;
+    right: 0;
+    top: 0;
+    position: absolute;
+}
+#footer{
+    background-color: #333;
+    width: 100%;
+    height: 115px;
+    margin-top: 1185px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+}
+ul li{
+    list-style-type:none;
+    display: inline;
+    margin-left: 15px;
+    color: white;
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif !important;
+}
+ol li{
+    list-style-type:none;
+    display: inline;
+    margin-left: 13px;
+    color: #cfd8dc;
+    font-size: 12px;
+    font-family: verdana;
+}
+.nav-tabs {
+    margin-bottom: 15px;
+}
+.sign-with {
+    margin-top: 25px;
+    padding: 20px;
+}
+div#OR {
+    height: 30px;
+    width: 30px;
+    border: 1px solid #C2C2C2;
+    border-radius: 50%;
+    font-weight: bold;
+    line-height: 28px;
+    text-align: center;
+    font-size: 12px;
+    float: right;
+    position: absolute;
+    right: -16px;
+    top: 40%;
+    z-index: 1;
+    background: #DFDFDF;
+}
+.hide {
+  height: 0;
+  overflow: hidden;
+  position: absolute;
+}
+
+#return-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #ff3d00;
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-decoration: none;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    display: none;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top i {
+    color: #fff;
+    margin: 0;
+    position: relative;
+    left: 16px;
+    top: 13px;
+    font-size: 19px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top:hover {
+    background: #ff3d00;
+}
+#return-to-top:hover i {
+    color: #fff;
+    top: 5px;
+}
+
+
+/* Extra Things */
+body{background: #eee ;font-family: 'Open Sans', sans-serif;}h3{font-size: 30px; font-weight: 400;text-align: center;margin-top: 50px;}h3 i{color: #444;}
+
+/* Shine */
+.hover14 figure {
+    position: relative;
+}
+.hover14 figure::before {
+    position: absolute;
+    top: 0;
+    left: -75%;
+    z-index: 2;
+    display: block;
+    content: '';
+    width: 50%;
+    height: 100%;
+    background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%);
+    background: linear-gradient(to right, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%);
+    -webkit-transform: skewX(-25deg);
+    transform: skewX(-25deg);
+}
+.hover14 figure:hover::before {
+    -webkit-animation: shine .75s;
+    animation: shine .75s;
+}
+@-webkit-keyframes shine {
+    100% {
+        left: 125%;
+    }
+}
+@keyframes shine {
+    100% {
+        left: 125%;
+    }
+}
