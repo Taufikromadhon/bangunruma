@@ -7,18 +7,18 @@ Video : https://www.useloom.com/share/dd294e4e390b486fac17715d76d21ec1
 
 Inspirasi :
 
-Udemy.com
-Pegipegi.com
-Kitabisa.com
-Mamikos.com
+Udemy.com | 
+Pegipegi.com | 
+Kitabisa.com | 
+Mamikos.com | 
 Traveloka.com
 
 
 Thanks To :
 
-Codepen.io
-Fontawesome.io
-Getbootstrap.com
+Codepen.io | 
+Fontawesome.io | 
+Getbootstrap.com | 
 https://github.com/matthieua/WOW
 
 
