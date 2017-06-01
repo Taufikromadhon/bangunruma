@@ -5,6 +5,21 @@ Demo : https://github.com/pseud0nyms/FP-Pweb
 
 Video : https://www.useloom.com/share/dd294e4e390b486fac17715d76d21ec1
 
-Thank You,
+Inspirasi :
+
+Udemy.com
+Pegipegi.com
+Kitabisa.com
+Mamikos.com
+Traveloka.com
+
+
+Thanks To :
+
+Codepen.io
+Fontawesome.io
+Getbootstrap.com
+https://github.com/matthieua/WOW
+
 
 Nomaden Team
