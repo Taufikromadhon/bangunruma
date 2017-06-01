@@ -22,4 +22,17 @@ Getbootstrap.com |
 https://github.com/matthieua/WOW
 
 
-Nomaden Team
+Nomaden Team :
+
+AYUB DIAN RARU					15.11.9223
+
+CHARLYA DWI ARDIAN				    15.11.9247
+
+DZUL VIKAAR AL-FAROUQ				  15.11.9204
+
+HARDLY JOSHUA IMANUEL			    15.11.9258 
+
+SOLIHIN FEBRIAN SAPUTRA 			15.11.9212
+
+WAHYU BINTANG NUGROHO         15.11.9250
+
