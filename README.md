@@ -1,4 +1,4 @@
-# FP-Pweb
+# Nama Anggota & Info
 Final Project Pemrograman Web | Nomaden
 
 
